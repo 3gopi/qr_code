@@ -1,0 +1,152 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.main{
+ background-image:url(1.cyber.jpg);
+ background-position:center;
+ background-size: cover;
+ height: 100vh;
+}
+.navbar{
+  width: 1200px;
+  height: 75;
+  margin: auto;
+
+}
+.icon{
+  height: 70px;
+  float:left;
+  height: 70px;
+
+}
+.logo{
+color:whitesmoke;
+font-size:60px;
+font-family:'Times New Roman';
+padding-left: 40px;
+float: right;
+padding-top:40px;
+}
+.manu{
+  width: 400;
+  float: left;
+  height: 70px;
+}
+ul{
+  float: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+ul li{
+  list-style: none;
+  margin-left: 76px;
+  margin-top:68px;
+  font-size:20px;
+}
+ul li a {
+  text-decoration: none;
+  color: aliceblue;
+  font-family: Arial;
+  font-weight: bold;
+  transition:0.4s ease-in-out;
+}
+ul li a:hover{
+  color: black;
+}
+.search{
+  justify-content: center;
+}
+h1{
+  margin: 40px;
+  margin-top:50px;
+  color:whitesmoke;
+  font-size:50px;
+
+}
+p{ 
+  color: aliceblue;
+  font-family:'Times New Roman';
+  margin:40px;
+  margin-top:30px;
+  font-size: 20px;
+}
+.content .cn{
+  width: 170px;
+  height: 40px;
+  background:#ff7200;
+  border: none;
+  margin: 120px;
+  margin-top:40px;
+  border-radius:20px;
+  cursor: pointer;
+
+}
+.content .cn a{
+  text-decoration: none;
+  color: black;
+  transition: .3s ease;
+  font-size: 35px;
+}
+.cn:hover{
+  background-color: whitesmoke;
+}
+.form{
+  width: 250px;
+  height: 380px;
+  background-color: black;
+  position: absolute;
+  top: 230px;
+  right:100px;
+  border-radius: 10px;
+  padding: 40px;
+}
+.form h2{
+  width: 220;
+  font-family: sans-serif;
+  text-align: center;
+  color: #ff7200;
+  font-size: 22px;
+  background-color:black;
+  border-radius: 10px;
+  margin:2px;
+  padding: 8px;
+}
+.form{
+  width: 240px;
+  height:35px;
+  background: transparent;
+  border-bottom: 1px solid bisque;
+  border-top:none;
+  border-right: none;
+  color: black;
+  font-size:15px;
+  letter-spacing: 1px;
+  margin-top:30px;
+  font-family: sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
